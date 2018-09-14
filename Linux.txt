@@ -1,0 +1,3 @@
+lsof -i 8080
+kill 22222
+cccc
